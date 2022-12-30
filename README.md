@@ -12,3 +12,8 @@ import maya.cmds as cmds
     or
     2. cmds.loadPlugin(pathToPlugin.py)
 3. cmds.particleCreator(sparse=True)
+
+
+## Contributing
+
+For changes, please open an issue first to discuss what you would like to change.
