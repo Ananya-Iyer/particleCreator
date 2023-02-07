@@ -6,7 +6,7 @@ How to run?
 
 import maya.cmds as cmds
 
-1. Create a sphere
+1. Create a sphere or any mesh
 2. load the plugin
     1. Windows >> Settings/Preferences >> Plugin Manager >> (load the plugin)
     or
